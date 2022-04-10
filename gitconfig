@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zooming.in@hotmail.com
+	name = neil chen
